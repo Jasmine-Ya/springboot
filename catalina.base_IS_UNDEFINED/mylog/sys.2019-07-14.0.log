@@ -1,0 +1,9 @@
+2019-07-14 23:50:23,761 INFO (StartupInfoLogger.java:50)- Starting MybootApplication on lgcdeMacBook-Pro.local with PID 1900 (/Library/aaaDev/code/idea/springboot/myboot/target/classes started by lgc in /Library/aaaDev/code/idea/springboot/myboot)
+2019-07-14 23:50:23,762 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 23:50:23,763 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 23:51:15,803 INFO (StartupInfoLogger.java:50)- Starting MybootApplication on lgcdeMacBook-Pro.local with PID 1911 (/Library/aaaDev/code/idea/springboot/myboot/target/classes started by lgc in /Library/aaaDev/code/idea/springboot/myboot)
+2019-07-14 23:51:15,805 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 23:51:15,806 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 23:56:12,839 INFO (StartupInfoLogger.java:50)- Starting MybootApplication on lgcdeMacBook-Pro.local with PID 1922 (/Library/aaaDev/code/idea/springboot/myboot/target/classes started by lgc in /Library/aaaDev/code/idea/springboot/myboot)
+2019-07-14 23:56:12,840 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 23:56:12,841 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
